@@ -10,3 +10,4 @@ git remote add origin https://www.github.com/rameshpokharel21/rational.git
 git remote set-url origin <new-url/repository.git>
 git push -u origin(url) <branch>
 git config --list
+tell git to ignore untracked file named .gitignore at root of repository
