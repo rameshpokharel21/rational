@@ -1,2 +1,5 @@
 The steps in computational thinking
 Decomposition, Pattern Recognition, Abstraction, and Algorithm
+git switch branch_name
+git switch main
+git branch -d feature_branch
