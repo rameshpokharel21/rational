@@ -1,0 +1,2 @@
+The steps in computational thinking
+Decomposition, Pattern Recognition, Abstraction, and Algorithm
