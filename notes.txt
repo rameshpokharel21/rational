@@ -3,3 +3,10 @@ Decomposition, Pattern Recognition, Abstraction, and Algorithm
 git switch branch_name
 git switch main
 git branch -d feature_branch
+git pull <remote> <branch>
+git branch --set-upstream-to=origin/<branch>local2
+git clone <url> : don't haver to add remote when cloned
+git remote add origin https://www.github.com/rameshpokharel21/rational.git
+git remote set-url origin <new-url/repository.git>
+git push -u origin(url) <branch>
+git config --list
